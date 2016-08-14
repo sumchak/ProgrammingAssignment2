@@ -1,4 +1,4 @@
-## Code consists of two functions makeCacheMatrix and cacheSolve
+## Code consists of two functions: makeCacheMatrix and cacheSolve
 
 ## makeCacheMatrix defines get and set functions to get and set values of the input matrix and its inverse
 
